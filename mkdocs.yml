@@ -1,0 +1,16 @@
+site_name: Tech with Dave
+site_url: https://techwithdave.xyz
+
+nav:
+  - Home: 'index.md'
+  - Websites: 'websites.md'
+
+theme:
+  favicon: favicon.png
+  locale: en
+  name: material
+  palette:
+    scheme: default
+
+extra_css:
+  - stylesheets/extra.css

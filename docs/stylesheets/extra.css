@@ -1,0 +1,12 @@
+a:hover {
+    text-decoration: underline;
+}
+p {
+    line-height: 1.35;
+}
+.md-footer {
+    margin-top: 30px;
+}
+.md-footer__inner {
+    display: none;
+}
