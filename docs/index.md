@@ -2,4 +2,5 @@ Welcome to Tech with Dave! This is my website where I explain how I made all of 
 
 ## Articles
 
-- [How to deploy a Dash app on Google Cloud Run](./articles/how-to-deploy-a-dash-app-on-google-cloud-run.md)
+- [Deploy a Dash app on Google Cloud Run](./articles/deploy-a-dash-app-on-google-cloud-run.md)
+- [Create a Multilingual Chatbot using OpenAI's APIs and Dash](./articles/create-a-multilingual-chatbot-using-openai-apis-and-dash.md)
