@@ -1,0 +1,27 @@
+site_name: Tech with Dave
+site_url: https://techwithdave.xyz
+
+nav:
+  - Home: 'index.md'
+  - Websites: 'websites.md'
+
+theme:
+  favicon: favicon.png
+  locale: en
+  name: material
+  palette:
+    scheme: default
+
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:david.currie32@gmail.com
+    - icon: fontawesome/brands/github
+      link: https://github.com/currie32
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/davidcurrie32/
+
+copyright: Contact me at - david.currie32@gmail.com
+
+extra_css:
+  - stylesheets/extra.css
