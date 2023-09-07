@@ -21,9 +21,9 @@ Learning about statistics and data science with stories and interactive visualiz
 - Website: <a href=https://statisticalstories.xyz target="_blank">https://statisticalstories.xyz</a>
 - Code:    <a href=https://github.com/Currie32/statistical_stories target="_blank">https://github.com/Currie32/statistical_stories</a>
 
-## Practice a Language
+## Activities Mapper
 
 Find fun things to do and great places to eat.
 
-- Website: <a href=https://activitiesmapper.web.app/ target="_blank">https://activities-in-london.web.app</a>
+- Website: <a href=https://activities-in-london.web.app target="_blank">https://activitiesmapper.web.app</a>
 - Code:    <a href=https://github.com/Currie32/activities-mapper target="_blank">https://github.com/Currie32/activities-mapper</a>

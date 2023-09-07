@@ -18,7 +18,7 @@ I usually call this repository `docker`. We will use this repository in the [.Ta
 
 ## Write the required files for deployment
 
-In your terminal, make sure that your cloud is configured to your current project:
+In your terminal, make sure that gcloud is configured to your new project:
 ```
 gcloud config set project name-of-project
 ```
